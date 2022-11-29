@@ -1,2 +1,16 @@
 # Infinite_Loop_Game_Project
 2022-2023 Game Programming Midterm Project
+
+# Oynanış
+Düz bir hat üzerinde rastgele konumlarda engeller ve ödüller çıkan sonsuza kadar kadar giden bir platforming oyunu.
+![1](https://user-images.githubusercontent.com/76780294/204632836-b74e214d-6068-4aa5-af75-18da5fe39d86.JPG)
+
+# Kontroller
+W -> İleri
+S -> Geri / Yavaşlama
+A -> Sol
+D -> Sağ
+Space -> Zıplama
+
+# Ekipte Görev Dağılımı
+Oyun aynı anda birlikte geliştirilmesi sebebiyle bütün kodlardaki geliştirilen kısımlardaki oransal dağılım eşittir.
