@@ -14,3 +14,6 @@ Space -> Zıplama
 
 # Ekipte Görev Dağılımı
 Oyun aynı anda birlikte geliştirilmesi sebebiyle bütün kodlardaki geliştirilen kısımlardaki oransal dağılım eşittir.
+
+# Oyun Bağlantısı
+https://memirerdem.itch.io/infinite-loop
